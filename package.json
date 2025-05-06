@@ -1,0 +1,23 @@
+{
+  "name": "learn-modern-javascript",
+  "version": "1.0.0",
+  "description": "Just to learn modern JavaScript ecosystem.",
+  "homepage": "https://github.com/siabillalquba/learn-modern-javascript#readme",
+  "bugs": {
+    "url": "https://github.com/siabillalquba/learn-modern-javascript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siabillalquba/learn-modern-javascript.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}
